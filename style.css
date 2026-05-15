@@ -1,0 +1,5 @@
+body { font-family: 'Segoe UI', sans-serif; }
+.navbar-brand { font-weight: 600; letter-spacing: 0.5px; }
+.card { border-radius: 0.5rem; }
+table th { font-size: 0.85rem; text-transform: uppercase; color: #6c757d; }
+.alert-success { background-color: #d1e7dd; }
